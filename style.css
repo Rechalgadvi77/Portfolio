@@ -1,0 +1,82 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+color: azure;
+
+}
+
+
+.mail{
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+}
+
+#Introduction{
+    width: 100%;
+    
+}
+.navbarr{
+     background: linear-gradient(100deg , rgb(25, 25, 71),rgb(13, 34, 52));
+    width: 550px;
+    forced-color-adjust:none;
+    margin: 0px auto;
+    padding: 10px 30px;
+    border-radius: 20px;
+    border: 3px,ridge blue;
+  
+}
+.nav{
+    display: inline;
+      margin-right:  37px;
+    text-decoration: none;
+    
+
+}
+#name{
+    font-weight: 900px;
+      background: #020024;
+background: linear-gradient(90deg,rgb(196, 195, 205) 0%, rgb(115, 103, 192) 21%, rgb(112, 181, 195) 66%);
+     background-clip: text;
+     color: transparent;
+     font-family: 'Times New Roman', Times, serif;
+     text-align: center;
+     font-weight: 900px;
+}
+
+section{
+    padding: 10px 40px;
+    background-color: rgb(23, 23, 70);
+    margin: 20px auto;
+    border-radius: 20px;
+    width: 98%;
+    box-shadow: 4px 4px rgb(107, 107, 220);
+
+}
+.abt{
+    background: #020024;
+background: linear-gradient(90deg,rgb(196, 195, 205) 0%, rgb(115, 103, 192) 21%, rgb(112, 181, 195) 66%);
+     background-clip: text;
+     color: transparent;
+}
+.link{
+
+height: 100px;
+padding-right: 50px;
+
+
+
+}
+#mail{
+    padding-right: 10px;
+    border-radius: 50%;
+    margin-top: 10px;
+   
+}
+#h3{
+      background: #020024;
+background: linear-gradient(90deg,rgb(196, 195, 205) 0%, rgb(115, 103, 192) 21%, rgb(112, 181, 195) 66%);
+     background-clip: text;
+     color: transparent;
+}
